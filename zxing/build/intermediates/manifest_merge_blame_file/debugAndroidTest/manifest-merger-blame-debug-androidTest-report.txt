@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.bingoogolapple.qrcode.zxing.test" >
+4
+5    <uses-sdk
+5-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:5:5-74
+6        android:minSdkVersion="17"
+6-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:5:15-41
+7        android:targetSdkVersion="26" />
+7-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:5:42-71
+8
+9    <instrumentation
+9-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:11:5-15:85
+10        android:name="android.test.InstrumentationTestRunner"
+10-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:11:22-75
+11        android:functionalTest="false"
+11-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:14:22-52
+12        android:handleProfiling="false"
+12-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:13:22-53
+13        android:label="Tests for cn.bingoogolapple.qrcode.zxing.test"
+13-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:15:22-83
+14        android:targetPackage="cn.bingoogolapple.qrcode.zxing.test" />
+14-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:12:22-81
+15
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+16-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-62
+17    <uses-permission android:name="android.permission.FLASHLIGHT" />
+17-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-69
+17-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-66
+18
+19    <uses-feature
+19-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-14:36
+20        android:name="android.hardware.camera.autofocus"
+20-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-57
+21        android:required="false" />
+21-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-33
+22    <uses-feature
+22-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-17:36
+23        android:name="android.hardware.camera.flash"
+23-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-53
+24        android:required="false" />
+24-->[:qrcodecore] E:\Android\workspace\Github\space2\QRCode\qrcodecore\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-33
+25
+26    <application android:debuggable="true" >
+26-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:7:5-9:19
+26-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:7:18-43
+27        <uses-library android:name="android.test.runner" />
+27-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:8:9-60
+27-->E:\Android\workspace\Github\space2\QRCode\zxing\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1561412198491214659.xml:8:23-57
+28    </application>
+29
+30</manifest>
